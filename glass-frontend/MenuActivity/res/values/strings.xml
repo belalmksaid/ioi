@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memora</string>
+
+    <!-- Voice Commands -->
+    <string name="StartMemora">car</string> <!-- Starts Application -->
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="live_card_text">Orkestra</string>
+    <string name="lights">Turn On Lights</string>
+    <string name="quit">Quit</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="title_activity_timeline_card">TimelineCardActivity</string>
+    <string name="play">Play</string>
+    <string name="moments">Moments</string>
+    <string name="title_activity_lights_toggle">LightsToggleActivity</string>
+    <string name="title_activity_lights_dim">LightsDimActivity</string>
+
+</resources>
